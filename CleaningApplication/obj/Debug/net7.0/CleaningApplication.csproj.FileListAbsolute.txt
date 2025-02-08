@@ -1,0 +1,15 @@
+C:\Users\pc\CleaningApi\CleaningApplication\bin\Debug\net7.0\CleaningApplication.deps.json
+C:\Users\pc\CleaningApi\CleaningApplication\bin\Debug\net7.0\CleaningApplication.dll
+C:\Users\pc\CleaningApi\CleaningApplication\bin\Debug\net7.0\CleaningApplication.pdb
+C:\Users\pc\CleaningApi\CleaningApplication\bin\Debug\net7.0\CleaningDomain.dll
+C:\Users\pc\CleaningApi\CleaningApplication\bin\Debug\net7.0\CleaningDomain.pdb
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.csproj.AssemblyReference.cache
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.AssemblyInfoInputs.cache
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.AssemblyInfo.cs
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.csproj.CoreCompileInputs.cache
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\Cleaning.FE6A60D7.Up2Date
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.dll
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\refint\CleaningApplication.dll
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.pdb
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\ref\CleaningApplication.dll

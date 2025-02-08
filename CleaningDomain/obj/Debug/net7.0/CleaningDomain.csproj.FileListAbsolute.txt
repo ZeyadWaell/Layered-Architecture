@@ -1,0 +1,11 @@
+C:\Users\pc\CleaningApi\CleaningDomain\bin\Debug\net7.0\CleaningDomain.deps.json
+C:\Users\pc\CleaningApi\CleaningDomain\bin\Debug\net7.0\CleaningDomain.dll
+C:\Users\pc\CleaningApi\CleaningDomain\bin\Debug\net7.0\CleaningDomain.pdb
+C:\Users\pc\CleaningApi\CleaningDomain\obj\Debug\net7.0\CleaningDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\CleaningApi\CleaningDomain\obj\Debug\net7.0\CleaningDomain.AssemblyInfoInputs.cache
+C:\Users\pc\CleaningApi\CleaningDomain\obj\Debug\net7.0\CleaningDomain.AssemblyInfo.cs
+C:\Users\pc\CleaningApi\CleaningDomain\obj\Debug\net7.0\CleaningDomain.csproj.CoreCompileInputs.cache
+C:\Users\pc\CleaningApi\CleaningDomain\obj\Debug\net7.0\CleaningDomain.dll
+C:\Users\pc\CleaningApi\CleaningDomain\obj\Debug\net7.0\refint\CleaningDomain.dll
+C:\Users\pc\CleaningApi\CleaningDomain\obj\Debug\net7.0\CleaningDomain.pdb
+C:\Users\pc\CleaningApi\CleaningDomain\obj\Debug\net7.0\ref\CleaningDomain.dll
