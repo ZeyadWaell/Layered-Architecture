@@ -8,6 +8,7 @@ C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication
 C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.AssemblyInfoInputs.cache
 C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.AssemblyInfo.cs
 C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.csproj.CoreCompileInputs.cache
+C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.sourcelink.json
 C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\Cleaning.FE6A60D7.Up2Date
 C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\CleaningApplication.dll
 C:\Users\pc\CleaningApi\CleaningApplication\obj\Debug\net7.0\refint\CleaningApplication.dll

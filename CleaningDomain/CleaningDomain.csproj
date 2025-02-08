@@ -7,9 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\" />
     <Folder Include="Enums\" />
     <Folder Include="Exceptions\" />
+    <!-- Include Entities folder because we'll put our entity classes here -->
+    <Folder Include="Entities\" />
   </ItemGroup>
 
 </Project>
